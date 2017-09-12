@@ -1,0 +1,1 @@
+Your JUCE code has been generated! Import the files contained in /source to your Projucer project,#include your top level header, and then add its component to your GUI with addAndMakeVisible(component).Happy coding!
